@@ -1,2 +1,2 @@
 # hello-insecure
-An example of an insecure repository for OSS for testing
+An example of an insecure repository for testing
