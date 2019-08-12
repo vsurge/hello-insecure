@@ -25,6 +25,7 @@
   "homepage": "https://github.com/vsurge/hello-insecure#readme",
   "dependencies": {
     "apache-2.0-licensed": "^1.0.1",
+    "gpl-2.0-licensed": "^1.0.0",
     "jquery": "^2.1.1"
   }
 }
